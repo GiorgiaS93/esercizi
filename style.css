@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.poui {
+  height: 25px;
+  width: 25px;
+  background-color: red;
+  border-radius: 50%;
+}
